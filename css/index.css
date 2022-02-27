@@ -1,0 +1,22 @@
+div {
+background-color: skyblue;
+color: rgb(127, 47, 255);
+}
+h1{
+font-size: 40px;
+color: brown;
+}
+form{
+}
+#check{
+    width: auto;
+}
+label{
+    
+}
+input{
+width: 50%;
+}
+a {
+    color: rgb(127, 47, 255);
+}
